@@ -1,7 +1,7 @@
 # AmongUs
 Implementation d'un mini jeux among us sur une page HTML
 
-Nous avons les animation Among Us disponible dans le fichier  AmongUs/page test among us/Page test.htm 
+Nous avons les animation Among Us disponible dans le fichier  **AmongUs/page test among us/Page test.htm**
 
 Celui-ci contient :
 	-6 crewmates
@@ -27,10 +27,9 @@ Fonctionnalités qui auraient du être implémenté :
 	-Une animation lorsque l'on tue
 	-Sabotage changeant la couleur de la page web en nuance de rouge avec un code dans la page a rentrer dans une search bar
 
-////////////////////
-///Test en ligne ///
-////////////////////
+# Tester soit meme 
+
 Nous avons essayé de mettre en place les informations précédente sur une page web quelconque ou l'implémentation n'est pas compliqué, 
-Vous pouvez ouvrir le dossier testAmongUs et y observer l'incrustation de l'équipage
+Vous pouvez telecharger le dossier et y observer l'incrustation de l'équipage dans le fichier : **AmongUs/page test among us/Page test.htm**
 
 L'indice se trouve en fin de page et les 8 membres de l'équipage sont présent sur le site en attendant que vous les démasquez !
