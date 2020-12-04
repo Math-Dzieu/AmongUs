@@ -5,6 +5,7 @@ Nous avons les animation Among Us disponible dans le fichier  **AmongUs/page tes
 
 Les fichiers créés sont dans le dossier : **AmongUs/page test among us/NuitDeLinfo/**
 Celui-ci contient :
+
 	-6 crewmates
 	-2 impostors (Rouge et Jaune)
 	-1 animation de vent
