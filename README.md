@@ -3,6 +3,7 @@ Implementation d'un mini jeux among us sur une page HTML
 
 Nous avons les animation Among Us disponible dans le fichier  **AmongUs/page test among us/index.html**
 
+Les fichiers créés sont dans le dossier : **AmongUs/page test among us/NuitDeLinfo/**
 Celui-ci contient :
 	-6 crewmates
 	-2 impostors (Rouge et Jaune)
