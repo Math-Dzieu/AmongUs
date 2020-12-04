@@ -1,6 +1,8 @@
 # AmongUs
 Implementation d'un mini jeux among us sur une page HTML
-Nous avons utilisé le site suivant pour intégrer notre minijeux : https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki 
+Il est possible de le tester sur ce lien : https://nuitdelinfo.cactus-industries.fr/AmongUS/Page_test.htm
+
+(Nous avons utilisé le site suivant pour intégrer notre minijeux : https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki )
 
 Nous avons les animation Among Us disponible dans le fichier  **AmongUs/page test among us/index.html**
 
