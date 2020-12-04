@@ -24,6 +24,7 @@ Autres fonctionnalités :
 	-Affichage du rôle de la personne tuée en alert
 
 Fonctionnalités qui auraient du être implémenté :
+
 	-Au bout de quelques minutes sur le site l'imposteur Rouge devait changer d'apparence afin d'avoir une apparence légèrement différentes de l'ancienne mais avec une arme
 	-Une animation lorsque l'on tue un crewmate ou un imposteur avec l'indication 'was not the impostor'/'was the impostor'
 	-Une animation lorsque l'on tue
