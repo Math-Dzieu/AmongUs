@@ -15,6 +15,7 @@ Cette animation est un indice pour découvrir un imposteur
 
 # Plus
 Autres fonctionnalités :
+
 	-Son pour chaque animation(Vent, Kill, Victory, Defeat)
 	-Comptage des mort des imposteur pour finir la partie
 	-Comptage des mort des crewmates pour donnée la victoire aux imposteurs
