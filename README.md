@@ -8,12 +8,12 @@ Celui-ci contient :
 	-2 impostors (Rouge et Jaune)
 	-1 animation de vent
 
-#Regles
+# Regles
 
 Afin de trouver l'imposteur nous avons mit une animation de 'vent' avec le personnage Jaune,
 Cette animation est un indice pour découvrir un imposteur
 
-#Plus
+# Plus
 Autres fonctionnalités :
 	-Son pour chaque animation(Vent, Kill, Victory, Defeat)
 	-Comptage des mort des imposteur pour finir la partie
