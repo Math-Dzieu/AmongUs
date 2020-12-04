@@ -1,16 +1,19 @@
 # AmongUs
 Implementation d'un mini jeux among us sur une page HTML
 
-Nous avons les animation Among Us disponible dans le fichier index.html
+Nous avons les animation Among Us disponible dans le fichier  AmongUs/page test among us/Page test.htm 
 
 Celui-ci contient :
 	-6 crewmates
 	-2 impostors (Rouge et Jaune)
 	-1 animation de vent
 
+#Regles
+
 Afin de trouver l'imposteur nous avons mit une animation de 'vent' avec le personnage Jaune,
 Cette animation est un indice pour découvrir un imposteur
 
+#Plus
 Autres fonctionnalités :
 	-Son pour chaque animation(Vent, Kill, Victory, Defeat)
 	-Comptage des mort des imposteur pour finir la partie
